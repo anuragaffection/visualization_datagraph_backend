@@ -1,0 +1,18 @@
+{
+  "name": "visualization_dashboard",
+  "version": "1.0.0",
+  "description": "A Data Visualization App ",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "anuragaffection",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.4",
+    "express": "^4.18.2",
+    "mongoose": "^8.1.1"
+  }
+}

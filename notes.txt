@@ -1,0 +1,64 @@
+Architecture 
+MVC (Movel View Controller)
+ODM (Object Data Modeling) 
+
+Notes 
+-- mongoClient 
+-- mongoose 
+
+
+difference 
+-- mongoClient vs mongoose
+
+
+Command 
+-- npm init
+-- nodemon --version 
+
+
+Error recall
+-- "type": "module"
+-- wrong dbname 
+-- import correctly,  export correctly 
+-- must check .js extension at importing time 
+
+
+url 
+-- http://localhost:3071/
+
+
+
+Resources 
+-- https://observablehq.com/@d3/bar-chart-race?intent=fork
+-- https://www.mongodb.com/docs/drivers/node/current/quick-start/
+
+
+Motion Graph 
+-- https://observablehq.com/@d3/bar-chart-race?intent=fork
+-- exact value 
+-- graph range value 
+-- name 
+-- date 
+-- year 
+-- category (same color)
+-- exact value according to year 
+
+
+
+Motion Graph
+-- heading = top topics in each year 
+-- graph = motion bar graph
+-- topics name, 
+-- date or year , 
+-- and number of times topics appeared  that year 
+
+
+
+javascript concept 
+-- set 
+-- reduce 
+-- map 
+-- filter 
+-- find 
+
+
